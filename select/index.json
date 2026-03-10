@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "55",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2026-03-10T03:14:49.567968Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Seven 55 (DJ-Kicks) - Mixed",
+      "artist": "Jessy Lanza feat. Loraine James",
+      "has_synced": false,
+      "path": "select/01_Seven_55_(DJ-Kicks)_-_Mixed_Jessy_Lanza_feat._Loraine_James.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Seven 55 (DJ-Kicks) (Mixed) (feat. Loraine James)",
+      "artist": "Jessy Lanza",
+      "has_synced": false,
+      "path": "select/02_Seven_55_(DJ-Kicks)_(Mixed)_(feat._Loraine_James)_Jessy_Lanza.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "5:55",
+      "artist": "Charlotte Gainsbourg",
+      "has_synced": false,
+      "path": "select/03_5_55_Charlotte_Gainsbourg.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ol' 55 - 2013 Remaster",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/04_Ol'_55_-_2013_Remaster_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ol' 55",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/05_Ol'_55_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Napoli 55 È 'A Musica",
+      "artist": "Edoardo Bennato",
+      "has_synced": true,
+      "path": "select/06_A_Napoli_55_È_'A_Musica_Edoardo_Bennato.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "5:55 - Metronomy Remix",
+      "artist": "Charlotte Gainsbourg",
+      "has_synced": false,
+      "path": "select/07_5_55_-_Metronomy_Remix_Charlotte_Gainsbourg.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "5:55 (Metronomy remix)",
+      "artist": "Charlotte Gainsbourg",
+      "has_synced": false,
+      "path": "select/08_5_55_(Metronomy_remix)_Charlotte_Gainsbourg.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "55 (Live)",
+      "artist": "Kasabian",
+      "has_synced": false,
+      "path": "select/09_55_(Live)_Kasabian.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "55",
+      "artist": "Kasabian",
+      "has_synced": false,
+      "path": "select/10_55_Kasabian.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "55 - Live At Brixton Academy",
+      "artist": "Kasabian",
+      "has_synced": false,
+      "path": "select/11_55_-_Live_At_Brixton_Academy_Kasabian.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "55 Times",
+      "artist": "2 Chainz",
+      "has_synced": true,
+      "path": "select/12_55_Times_2_Chainz.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Can't Drive 55",
+      "artist": "Sammy Hagar",
+      "has_synced": true,
+      "path": "select/13_I_Can't_Drive_55_Sammy_Hagar.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Can't Drive 55",
+      "artist": "Sammy Hagar",
+      "has_synced": true,
+      "path": "select/14_I_Can't_Drive_55_Sammy_Hagar.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "55",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/pl_01_55_Official髭男dism.txt"
+    }
+  ]
+}
