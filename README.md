@@ -1,0 +1,41 @@
+# Official髭男dism – 55
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+泣きたい だけど泣けない
+差し押さえたはずの涙腺がなぜかEmpty!
+気じゃない 気が気ではない
+危うく飛び出そうな悪口雑言にはStop It!
+気分を変えたい55 喉から手が出るナイト
+右手を回せばサタデーナイトフィーバー
+気分を変えたい55 喉から手が出るナイト
+8時スタートで55 果てまでかっとばそう55
+PARTY! PARTY! Uh uh uh Livin' It Up!
+このボーイングで宇宙に 干上がってしまう前に
+PARTY! PARTY! Uh uh uh Livin' It Up!
+足りないのはローミッドさ Turn It Up! Turn It Up!
+でも騒げない?
+良い子のレッテルはかなりかなりきつい
+それなら皆で55 踊れる債権者は55
+PARTY! PARTY! Uh uh uh Livin' It Up!
+このボーイングで宇宙に
+取り返しに行こうジャンキー!
+PARTY! PARTY! Uh uh uh Livin' It Up!
+焦げついてしまう前に Turn It Up! Turn It Up!
+吐きたい だけど吐けない
+後悔先に立たず動けない
+要らない 何も要らない
+それでもこの夜を嫌いになれない
+右手を回せばサタデーナイトフィーバー
+PARTY! PARTY! Uh uh uh Livin' It Up!
+このボーイングで宇宙に 干上がってしまう前に
+PARTY! PARTY! Uh uh uh Livin' It Up!
+足りないのはローミッドさ
+Turn It Up! Turn It Up!
+PARTY! PARTY! Uh uh uh Livin' It Up!
+このボーイングで宇宙に
+取り返しに行こうジャンキー!
+PARTY! PARTY! Uh uh uh Livin' It Up!
+焦げついてしまう前に Turn It Up! Turn It Up!
+```
